@@ -1,5 +1,7 @@
 # Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry
 
+**Contacts:** bauer@bwh.harvard.edu, sophia.pells@umassmed.edu
+
 Table of contents:
 ```diff
 - 1. Objective and Background
