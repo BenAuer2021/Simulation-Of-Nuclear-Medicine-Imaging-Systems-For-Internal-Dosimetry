@@ -60,7 +60,7 @@ This permits activities to be specified for different regions with an activity r
   
   ## 3. Usage in GATE
   
-  This section provides examples for absorbed dose calculations for the spleen of the patient phantom.
+ An example macro for a dose simulation for the photon emission, beta emission and monoenergetic electron emission of <sup>177</sup> is provided.  This section provides discusses some components of the macros in more detail. 
   
   The first step is to define the world and set the path to the file which defines all materials in the simulation: 
  ```ruby 
