@@ -16,7 +16,7 @@ This directory provides an example of a GATE simulation for internal dosimetry c
 
 ## 2. Patient phantom
 
-A voxelised phantom model  based on a low-dose CT of a female <sup>177</sup>Lu-DOTATATE patient The voxelised phantom model is from the Christie NHS Foundation Trust, Manchester, UK. Registration and organ/tumour segmentation was performed by Dr Emma Page at the Christie NHS Foundation Trust, Manchester, UK.
+ The voxelised phantom model is based on a low-dose CT of a female <sup>177</sup>Lu-DOTATATE patient from the Christie NHS Foundation Trust, Manchester, UK. Registration and organ/tumour segmentation was performed by Dr Emma Page at the Christie NHS Foundation Trust, Manchester, UK.
 
 A model for attenuation and source definition is provided. Both are in interfile format with unsigned 16bits and size 108x70x90. The pixel size is 3.9063 mm and the slice thickness is  4.4196 mm. 
 
