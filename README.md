@@ -270,3 +270,18 @@ gate/actor/totEdep/enableDose             false
   Example output Edep image for betas(left) and photons (right):
   ![exampleOutput_EdepSpleen_betas_photons](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/00435f52-d51b-4f35-9e76-3171f13551df)
 
+
+
+Below the Edep images have been overlaid on the attenuation map: 
+
+For the photons (X-rays and gammas)
+![Patient_spleenDose_photons_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/7a86991d-a96b-4802-9eae-fd05ad630508)
+
+
+For the betas
+![Patient_spleenDose_betas_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/8fcbb5e5-dd9a-4763-b6d9-f31ef7104637)
+
+
+For the mono-energetic electron emissions (conversion and Auger)
+![Patient_spleenDose_monoes_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/443d8ddc-19b9-4b05-a70e-db7520942724)
+
