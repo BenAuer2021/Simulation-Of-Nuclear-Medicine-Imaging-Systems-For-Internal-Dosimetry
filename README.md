@@ -10,8 +10,9 @@ Table of contents:
 
 ## 1. Objective and Background
 
-This directory provides an example of a GATE simulation for internal dosimetry calculations for a <sup>177</sup>Lu-DOTATATE therapy. This example has been written for GATE version 9. The patient source and attenuation images are available here https://github.com/BenAuer2021/Phantoms-For-Nuclear-Medicine-Imaging-Simulation/blob/main/patient_LuDOTATATE_phantoms.zip
+This directory provides an example of a GATE simulation for internal dosimetry calculations for a <sup>177</sup>Lu-DOTATATE therapy. Example macros (for GATE version 9) are provided in https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/blob/main/GATE_MACROS_LuDOTATATE_DOSE.zip 
 
+The patient source and attenuation images are available here https://github.com/BenAuer2021/Phantoms-For-Nuclear-Medicine-Imaging-Simulation/blob/main/patient_LuDOTATATE_phantoms.zip
 See  https://github.com/BenAuer2021/Phantoms-For-Nuclear-Medicine-Imaging-Simulation#readme  for more information on the phantoms. 
 
 The attenuation model: patient15_LuDOTATATE_attn.i33 <br />
