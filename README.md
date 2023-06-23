@@ -13,6 +13,7 @@ Table of contents:
 This directory provides an example of a GATE simulation for internal dosimetry calculations for a <sup>177</sup>Lu-DOTATATE therapy. Example macros (for GATE version 9) are provided in https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/blob/main/GATE_MACROS_LuDOTATATE_DOSE.zip 
 
 The patient source and attenuation images are available here https://github.com/BenAuer2021/Phantoms-For-Nuclear-Medicine-Imaging-Simulation/blob/main/patient_LuDOTATATE_phantoms.zip
+
 See  https://github.com/BenAuer2021/Phantoms-For-Nuclear-Medicine-Imaging-Simulation#readme  for more information on the phantoms. 
 
 The attenuation model: patient15_LuDOTATATE_attn.i33 <br />
@@ -27,9 +28,9 @@ A screenshot of each (attn left and source right) is shown below
   
   ## 2. Usage in GATE
   
- An example macro for a dose simulation for the photon emission, beta emission and monoenergetic electron emission of <sup>177</sup> is provided.  This section provides discusses some components of the macros in more detail. 
+An example macro for a dose simulation for the photon emission, beta emission and monoenergetic electron emission of <sup>177</sup>Lu is provided.  This section provides discusses some components of the macros in more detail. 
   
-  The first step is to define the world and set the path to the file which defines all materials in the simulation: 
+ The first step is to define the world and set the path to the file which defines all materials in the simulation: 
  ```ruby 
 ############################################################## 
 # Materials definition
