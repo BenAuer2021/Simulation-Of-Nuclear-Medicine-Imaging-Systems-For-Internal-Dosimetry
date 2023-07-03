@@ -1,6 +1,8 @@
 # Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry
 
-**Contacts:** bauer@bwh.harvard.edu, sophia.pells@umassmed.edu
+This tutorial is developed and maintained by Auer Benjamin, Ph.D from the Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA and Pells Sophia, Ph.D from the University of Massachussetts Chan Medical School, Worcester, MA, USA
+
+**Contact:** Auer Benjamin bauer@bwh.harvard.edu.
 
 Table of contents:
 ```diff
