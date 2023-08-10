@@ -24,7 +24,7 @@ The source model: patient15_LuDOTATATE_src.i33
 The header files are the corresponding .h33 files. 
 
 A screenshot of each (attn left and source right) is shown below 
-![screenshot_patientPhantom](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/74ff5d8f-e3b7-45d3-88ad-d80d50738cd0)
+![image](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/08971af3-e779-4571-8a81-62629473e296)
 
  
   
@@ -272,20 +272,20 @@ gate/actor/totEdep/enableDose             false
   The dose actor will create interfile images with the same size and resolution as our input source image. The output is 32 bit float. The Edep image has units of MeV and the uncertainty is the **relative** statistical uncertainty. The squared file is useful for calculating the uncertainty if multiple files are combined. 
   
   Example output Edep image for betas(left) and photons (right):
-  ![exampleOutput_EdepSpleen_betas_photons](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/00435f52-d51b-4f35-9e76-3171f13551df)
+![exampleOutput_EdepSpleen_betas_photons](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/c63050e0-1e4b-4be6-b02f-0ef7fd6c69fd)
 
 
 
 Below the Edep images have been overlaid on the attenuation map: 
 
 For the photons (X-rays and gammas)
-![Patient_spleenDose_photons_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/7a86991d-a96b-4802-9eae-fd05ad630508)
+![Patient_spleenDose_photons_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/bab56930-953b-4687-941a-471dec126100)
 
 
 For the betas
-![Patient_spleenDose_betas_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/8fcbb5e5-dd9a-4763-b6d9-f31ef7104637)
+![Patient_spleenDose_betas_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/36d0f3d1-a4df-4af9-b6e8-889c0a9beea6)
 
 
 For the mono-energetic electron emissions (conversion and Auger)
-![Patient_spleenDose_monoes_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/443d8ddc-19b9-4b05-a70e-db7520942724)
+![Patient_spleenDose_monoes_withAttnMap](https://github.com/BenAuer2021/Simulation-Of-Nuclear-Medicine-Imaging-Systems-For-Internal-Dosimetry/assets/55833314/2f4eda94-e7e1-4859-b87b-a8b4c40c275b)
 
